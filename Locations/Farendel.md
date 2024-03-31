@@ -1,0 +1,1 @@
+Slum Town where Ogud was born. Located in the city of [[Luza Adala]]

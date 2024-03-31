@@ -1,0 +1,4 @@
+-Lead by a Duck [[Aarakocra]] named [[Bubba Pintail]]
+-2 miles above sea level
+-Bearers of Brown scarfs
+-Home to the Scientist guild "The Rain Makers"
