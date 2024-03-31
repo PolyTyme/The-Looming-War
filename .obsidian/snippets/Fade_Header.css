@@ -1,0 +1,24 @@
+.view-content {
+    z-index: 0;
+}
+
+img[alt^="banner-fade"] {
+    width: 100%;
+    margin: 0px auto;
+    position: relative;
+    z-index: 0;
+}
+
+    img[alt^="banner-fade"]::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
+        opacity: 0.4;
+        z-index: -1;
+        pointer-events: none; /* Ensures the pseudo-element doesn't interfere with mouse events */
+    }
+

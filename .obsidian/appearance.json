@@ -1,3 +1,19 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "CoolWriting",
+    "custom_fonts",
+    "custom-admonitions.c5d999",
+    "CustomFont",
+    "dnd5e-compendium",
+    "Fade_Header",
+    "FirstHeaderLetter",
+    "HideProperties",
+    "custom-admonitions.bff305"
+  ],
+  "cssTheme": "ITS Theme",
+  "theme": "moonstone",
+  "textFontFamily": "",
+  "interfaceFontFamily": "austral_sansstamp_regular,nodesto_caps_condensedregular",
+  "baseFontSize": 22
 }

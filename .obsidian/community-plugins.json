@@ -1,4 +1,13 @@
 [
   "github-sync",
-  "obsidian-leaflet-plugin"
+  "obsidian-leaflet-plugin",
+  "obsidian-admonition",
+  "obsidian-style-settings",
+  "table-editor-obsidian",
+  "settings-search",
+  "obsidian-timelines",
+  "calendarium",
+  "obsidian-dice-roller",
+  "inline-encrypter",
+  "markdown-attributes"
 ]
