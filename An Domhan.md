@@ -18,6 +18,3 @@ zoomDelta: .9
 
 # Introduction
 
-This is test text to test GitHub
-
-This is for Testing the github sync actually working
