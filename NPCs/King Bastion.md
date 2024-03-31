@@ -1,2 +1,2 @@
 King of humans
-son is [[Prince of Humans Elidron the Blue]]
+son is [[Prince of Humans Elidron the Blue]] 

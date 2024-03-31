@@ -4,4 +4,4 @@ share_updated: 2024-03-02T11:16:35-06:00
 ---
 Continent in [[An Domhan]]
 
-POI: [[Eagle Island]], [[White Island]], [[Godwit Island]]
+POI: [[Eagle Island]], [[White Island]], [[Godwit Island]] 

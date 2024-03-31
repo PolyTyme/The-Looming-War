@@ -9,4 +9,4 @@ share_updated: 2024-03-02T11:17:40-06:00
 -600 ft above sea level
 -Bearers of Green scarfs
 -Home to Fort Phoenix, the Devil's Beak Armory, and the Training grounds of the Aaracokran Military
--Thunderdome is here
+-Thunderdome is here 

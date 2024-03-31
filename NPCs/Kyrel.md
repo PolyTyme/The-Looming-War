@@ -3,4 +3,4 @@ tags:
   - npc
 ---
 [[Elaina|Elaina's]] Brother
-Resident of [[An Domhan]]
+Resident of [[An Domhan]] 

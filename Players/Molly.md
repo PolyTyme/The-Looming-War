@@ -16,7 +16,7 @@
 > | **Race**| ? |
 > |**Expertise**| ?|
 
-<span style="font-family: solbera_imitationregular; font-size:100">M</span>olly, "Basic Description of the character and where they are from"
+<span style="font-family: solbera_imitationregular; font-size:100">M</span>olly, "Basic Description of the character and where they are from" 
 "Quick explanation of what made the character the way they are"
 
 "What type of person is this character"

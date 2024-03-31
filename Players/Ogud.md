@@ -16,7 +16,7 @@
 > | **Race**| [[Dragonborn]] |
 > |**Expertise**| Close-Combat|
 
-<span style="font-family: solbera_imitationregular; font-size:100">O</span>gud, a blue [[dragonborn]] hailing from [[An Domhan]], emerged into the world amidst the harsh realities of poverty within [[Farendel]]'s slums.
+<span style="font-family: solbera_imitationregular; font-size:100">O</span>gud, a blue [[dragonborn]] hailing from [[An Domhan]], emerged into the world amidst the harsh realities of poverty within [[Farendel]]'s slums. 
 From his formative years, he confronted the challenges of survival head-on, devoid of familial support or societal privilege. 
 His upbringing instilled in him a resilient spirit, shaped by the necessity of self-reliance and the trials of street life.
 

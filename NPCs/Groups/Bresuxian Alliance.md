@@ -1,1 +1,1 @@
-[[Roshta, Bone Breaker]], [[High King of Elves Malster Malign]] [[King Bastion]]
+[[Roshta, Bone Breaker]], [[High King of Elves Malster Malign]] [[King Bastion]] 

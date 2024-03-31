@@ -2,4 +2,4 @@
 tags:
   - npc
 ---
-Resident of [[An Domhan]]
+Resident of [[An Domhan]] 
