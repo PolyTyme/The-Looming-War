@@ -1,0 +1,100 @@
+{
+  "collapse-filter": true,
+  "search": "-path:\"System Resources\" -file:DefaultNPC -path:Events -file:README",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "file: Ogud",
+      "color": {
+        "a": 1,
+        "rgb": 262399
+      }
+    },
+    {
+      "query": "file: Hadley",
+      "color": {
+        "a": 1,
+        "rgb": 12763842
+      }
+    },
+    {
+      "query": "file: Little Dragon",
+      "color": {
+        "a": 1,
+        "rgb": 11559423
+      }
+    },
+    {
+      "query": "path:Players/Molly",
+      "color": {
+        "a": 1,
+        "rgb": 16711880
+      }
+    },
+    {
+      "query": "file: Rhasia",
+      "color": {
+        "a": 1,
+        "rgb": 16728699
+      }
+    },
+    {
+      "query": "file: Rose",
+      "color": {
+        "a": 1,
+        "rgb": 6488263
+      }
+    },
+    {
+      "query": "file: Tuvan",
+      "color": {
+        "a": 1,
+        "rgb": 16711705
+      }
+    },
+    {
+      "query": "path:Locations -path:Locations/Groups",
+      "color": {
+        "a": 1,
+        "rgb": 15725089
+      }
+    },
+    {
+      "query": "path:NPCs/Groups",
+      "color": {
+        "a": 1,
+        "rgb": 10420217
+      }
+    },
+    {
+      "query": "path:An Domhan",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:NPCs -path:NPCs/Groups  ",
+      "color": {
+        "a": 1,
+        "rgb": 2948905
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.5087618855792596,
+  "close": false
+}

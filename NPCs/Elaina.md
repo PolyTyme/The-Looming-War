@@ -2,5 +2,5 @@
 tags:
   - npc
 ---
-[[Kyrel]]'s Sister and [[Ogud]]'s love.
+[[Kyrel|Kyrel's]] Sister.
 Resident of [[An Domhan]]

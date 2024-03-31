@@ -2,5 +2,5 @@
 tags:
   - npc
 ---
-[[Elaina]]'s Brother and [[Ogud]]'s Best Friend
+[[Elaina|Elaina's]] Brother
 Resident of [[An Domhan]]
