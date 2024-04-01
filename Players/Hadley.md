@@ -9,7 +9,7 @@
 
  > [!infobox]
 >  # Hadley
-> ![[DefaultMaleImage1.png|cover large]]
+> ![[DefaultMaleImage.png|cover large]]
 > ###### Stats
 > | Type |  Stat |
 > | ---- | ---- |

@@ -1,3 +1,3 @@
-![[GideonImage1.png]]
+![[GideonImage.png]]
 # Introduction
 One of [[Molly]]'s Brothers 

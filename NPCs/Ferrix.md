@@ -1,3 +1,3 @@
-![[FerrixImage1.png]]
+![[FerrixImage.png]]
 # Introduction
 One of [[Molly]]'s Brothers 

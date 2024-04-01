@@ -1,4 +1,4 @@
-![[RoseImage1.jpg|banner-fade]]
+![[RoseImage.jpg|banner-fade]]
 
 # Introduction
  
@@ -8,7 +8,7 @@
 
  > [!infobox]
 >  # Rose
-> ![[RoseImage1.jpg|cover large]]
+> ![[RoseImage.jpg|cover large]]
 > ###### Stats
 > | Type |  Stat |
 > | ---- | ---- |

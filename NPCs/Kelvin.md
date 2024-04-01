@@ -1,3 +1,3 @@
-![[KelvinImage1.png|Banner_Fade]]
+![[KelvinImage.png|Banner_Fade]]
 # Introduction
 One of [[Molly]]'s Brothers 

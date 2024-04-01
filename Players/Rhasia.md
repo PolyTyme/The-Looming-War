@@ -8,7 +8,7 @@
 
  > [!infobox]
 >  # Rhasia
-> ![[DefaultFemaleImage1.png|cover large]]
+> ![[DefaultFemaleImage.png|cover large]]
 > ###### Stats
 > | Type |  Stat |
 > | ---- | ---- |

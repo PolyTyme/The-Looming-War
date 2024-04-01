@@ -1,4 +1,4 @@
-![[AlabastorImage1.png]] 
+![[AlabastorImage.png]] 
 # Introduction
 
 [[Hadley]]'s mentor

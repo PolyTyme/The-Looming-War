@@ -1,4 +1,4 @@
-![[OgudTheProtective1.png|banner-fade]]
+![[OgudTheProtective.png|banner-fade]]
 
 # Introduction
  
@@ -8,7 +8,7 @@
 
  > [!infobox]
 >  # Ogud
-> ![[OgudTheProtectiveFullBody1.jpg|cover large]]
+> ![[OgudTheProtectiveFullBody.jpg|cover large]]
 > ###### Stats
 > | Type |  Stat |
 > | ---- | ---- |

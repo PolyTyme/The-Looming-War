@@ -1,3 +1,3 @@
-![[PercivalImage1.png]]
+![[PercivalImage.png]]
 # Introduction
 One of [[Molly]]'s Brothers 
