@@ -1,4 +1,4 @@
-![[MollyImage.png|banner-fade]]
+![[MollyImage1.png|banner-fade]]
 
 # Introduction
  
@@ -8,7 +8,7 @@
 
  > [!infobox]
 >  # Molly
-> ![[MollyImage.png|cover large]]
+> ![[MollyImage1.png|cover large]]
 > ###### Stats
 > | Type |  Stat |
 > | ---- | ---- |

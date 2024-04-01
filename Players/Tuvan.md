@@ -1,4 +1,4 @@
-![[TheoImage.png|banner-fade]]
+![[TheoImage1.png|banner-fade]]
 
 # Introduction
  
@@ -8,7 +8,7 @@
 
  > [!infobox]
 >  # Tuvan
-> ![[TheoImage.png|cover large]]
+> ![[TheoImage1.png|cover large]]
 > ###### Stats
 > | Type |  Stat |
 > | ---- | ---- |
