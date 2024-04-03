@@ -1,1 +1,3 @@
-Leader of Orcs 
+Leader of Orcs
+
+Found him in [[Mallard Island]]
