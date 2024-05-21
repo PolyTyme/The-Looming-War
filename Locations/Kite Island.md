@@ -1,0 +1,4 @@
+-18,000 ft
+-Lead by a Black Kite Aarocokra named Milvus Marteks
+-Bearers of Violet Scarfs
+-Home to the High Owl Adventuring School

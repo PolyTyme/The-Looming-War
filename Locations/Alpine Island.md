@@ -1,0 +1,4 @@
+-26,000 ft
+-Lead by an [[Alpine Chough]] [[Aarakocra]] named [[Graculus Nightflight]]
+-Bearers of checkerboard scarf
+-Rumored to be Home to a portal to the elemental plane

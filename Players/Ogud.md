@@ -86,13 +86,13 @@ Ogud enjoys playing with animals and helping to take care of them when he's avai
 
 # Affiliations
 
-> [!kith|romantic]- `secret 0aDnS0DJp+95Vkz8xKjAmH6SN60X5cCnRnB4qcfOKjXcp8LxvodQJ49iD/wdE7/YnIqM4lxKjVPrFthDpjE=` _True Love_
+> [!kith|romantic]- **[[Elaina]]** _True Love_
 
-> [!kith|friend]- `secret k9XAel30XgNWhzhhns0mtMYxU0mkNRaTkMHDovvwfqWDHHfPGybm48LCdYX9+Ok0dnnqPVKJWKaoXufwCw==` _Best Friend_
+> [!kith|friend]- **[[Kyrel]]** _Best Friend_
 
 > [!kith|enemy]- **[[Salazar]]** _Rival_
 
-> [!kith|family]- `secret TIwIg7jTPcOOOVxRibfcVPoVHoTI8T2VwVWoslkLGbYGCNEK34WUFBwDXBeEx3n/+HA2xYk4A83fhQYB6Mt5egd3cMkC` _Family_
+> [!kith|family]- **[[Maline Family]]** _Family_
 
 >[!kith|family]- **[[Molly & The Sprockets]]** _Party_
 

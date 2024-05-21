@@ -1,1 +1,1 @@
-Royal Elven Family Residing in [[Frestadir]]. 
+Royal Elven Family Residing in [[Frestadir]]. [[Kyrel]], [[Elaina]], [[High King of Elves Malster Malign]], "[[Ogud]]"
