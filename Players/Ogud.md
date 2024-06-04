@@ -48,7 +48,7 @@ title: Fun Fact
 icon: player
 collapse: close
 
-Ogud enjoys playing with animals and helping to take care of them when he's available.
+Ogud has a resistance to gold damage.
 ```
 
 

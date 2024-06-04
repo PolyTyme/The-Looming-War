@@ -1,0 +1,1 @@
+Got his wings torn off by an adventuring party and thrown off the edge of [[Bearded Island]]
